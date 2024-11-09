@@ -18,6 +18,6 @@ The **Country Information Lookup** application allows users to search for inform
 ### Live Demo
 
 View the project live on GitHub Pages:  
-**[Country Information Lookup App](https://mwheeler2244.github.io/# Country-Information-Lookup-App
+**[Country Information Lookup App](https://mwheeler2244.github.io/Country-Information-Lookup-App
 /)**
 
